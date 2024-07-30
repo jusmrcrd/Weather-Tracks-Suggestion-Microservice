@@ -22,12 +22,10 @@ Technologies Used
         RESTful API
     Database:
         MySQL (used as a cache)
-    Deployment:
-        Docker
 
 Getting Started
 Prerequisites
 
     JDK 11 or higher
     MySQL Server
-    Docker (optional, for containerized deployment)
+
