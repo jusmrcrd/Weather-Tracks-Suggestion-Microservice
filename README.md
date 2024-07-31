@@ -3,10 +3,10 @@
 This microservice provides a playlist suggestion based on the current temperature of a given city or coordinates (latitude and longitude). The service integrates with a weather API to fetch the current temperature and suggests tracks according to predefined business rules.
 Business Rules
 
-    Above 30°C: Party tracks
+    Above   30°C: Party tracks
     Between 15°C and 30°C: Pop music tracks
     Between 10°C and 14°C: Rock music tracks
-    Below 10°C: Classical music tracks
+    Below   10°C: Classical music tracks
 
 Features
 
