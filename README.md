@@ -11,7 +11,7 @@ Business Rules
 Features
 
     Weather Information: Retrieves current temperature using a weather API.
-    Playlist Suggestion: Suggests a playlist based on the temperature.
+    Spotify Track Suggestion: Suggests a Track based on the temperature.
     Caching: Weather data is cached using MySQL to improve performance and reduce API calls.
 
 Technologies Used
