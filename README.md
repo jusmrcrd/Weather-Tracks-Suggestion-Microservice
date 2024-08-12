@@ -26,6 +26,6 @@ Technologies Used
 Getting Started
 Prerequisites
 
-    JDK 11 or higher
+    JDK 17
     MySQL Server
 
